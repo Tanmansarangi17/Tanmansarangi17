@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi there, I'm Tanman!
+🔧 Embedded | Hardware | Test Automation Engineer
+💡 Passionate about building robust electronic systems and making hardware smarter through software.
 
-<!--
-**Tanmansarangi17/Tanmansarangi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I do:
 
-Here are some ideas to get you started:
+🛠️ Design, validate, and test embedded systems & ECUs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Automate hardware tests using LabVIEW, Python & TestStand
+
+📡 Work with CAN, LIN, and real-time HIL simulations
+
+🌡️ Validate electronics under extreme environmental conditions
+
+🔍 Love reverse-engineering circuits and optimizing test benches
+
+🧰 Tech Toolbox:
+C/C++ | Python | LabVIEW | MATLAB/Simulink | CANoe/CANalyzer | TestStand | dSPACE | PyVISA
+Oscilloscope | Signal Generator | Environmental Chambers | Power Supplies | Data Loggers
+
+📈 Currently Learning:
+
+High-speed PCB Design
+
+RTOS & Bare-metal Firmware
+
+Advanced Signal Integrity & EMC techniques
+
+🌐 Connect with me:
+
+
+🎯 Let’s collaborate and build something awesome!
+
